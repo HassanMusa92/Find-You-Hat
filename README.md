@@ -5,7 +5,12 @@ The aim for project is to build an interactive terminal game. The scenario is th
 
 ## How to play
 
-Use r, a, s and d keys to control the character in search of a hat. r + ENTER in the terminal moves character right. Aim is to find the hat.
+Use r, a, s and d keys to control the character in search of a hat. 
+r + enter button in the terminal moves character right.
+s + enter button to go down.
+a + enter button to go left.
+d + enter button to go right.
+Aim is to find the hat.
 
 ## Technologies
 
